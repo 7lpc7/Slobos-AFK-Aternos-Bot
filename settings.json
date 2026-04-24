@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "24/7 bot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Patrick_Star.aternos.me",
@@ -14,7 +14,7 @@
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": 200,
     "z": 0
   },
   "utils": {
@@ -23,7 +23,7 @@
       "password": "chalol78"
     },
     "anti-afk": {
-      "enabled": true,
+      "enabled": false,
       "sneak": true
     },
     "chat-messages": {
