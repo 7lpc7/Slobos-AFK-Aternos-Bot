@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "24/7 bot",
+    "username": "AFK Bot",
     "password": "",
     "type": "online"
   },
@@ -23,8 +23,8 @@
       "password": "chalol78"
     },
     "anti-afk": {
-      "enabled": false,
-      "sneak": true
+      "enabled": true,
+      "sneak": false
     },
     "chat-messages": {
       "enabled": false,
