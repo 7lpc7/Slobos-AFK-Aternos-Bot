@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AFK Bot",
+    "username": "STAFF",
     "password": "",
-    "type": "online"
+    "type": "mojang"
   },
   "server": {
     "ip": "Patrick_Star.aternos.me",
@@ -12,15 +12,15 @@
     "try-creative": false
   },
   "position": {
-    "enabled": true,
-    "x": -37,
-    "y": 107,
-    "z": 132
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
-      "password": "chalol78"
+      "enabled": false,
+      "password": ""
     },
     "anti-afk": {
       "enabled": true,
